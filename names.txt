@@ -1,0 +1,62 @@
+Porifera
+Hydrozoa
+Turbellaria
+Trematoda
+Monogenea
+Cestoda
+Syndermata
+Prosobranchiata
+Basommatophora
+Stylommatophora
+Bivalvia
+Polychaeta
+Oligochaeta
+Hirudinea
+Nematoda
+Anostraca
+Notostraca
+Cladocera
+Branchiura
+Pentastomida
+Copepoda
+Decapoda
+Isopoda
+Amphipoda
+Xiphosura
+Scorpionida
+Pseudoscorpionida
+Acari
+Opilionida
+Araneida
+Chilopoda
+Diplopoda
+Collembola
+Archaeognatha
+Zygentoma
+Ephemeroptera
+Odonata Zygoptera
+Odonata Anisoptera
+Plecoptera
+Blattodea
+Mantodea
+Orthoptera Ensifera
+Orthoptera Caelifera
+Dermaptera
+Phthiraptera Anoplura
+Hemiptera Sternorrhyncha Aphidoidea
+Hemiptera Sternorrhyncha Coccoidea
+Hemiptera Auchenorrhyncha
+Hemiptera Heteroptera
+Neuroptera
+Megaloptera
+Raphidioptera
+Coleoptera Adephaga 
+Coleoptera Polyphaga
+Mecoptera
+Diptera Nematocera 
+Diptera Brachycera
+Siphonaptera
+Trichoptera
+Lepidoptera
+Hymenoptera Symphyta
+Hymenoptera Apocrita
